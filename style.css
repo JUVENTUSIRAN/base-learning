@@ -11,3 +11,6 @@ body { background: #000; }
 h1 { color: #00ff88; }
 button { padding: 10px; }
 footer { text-align: center; color: gray; }
+a {
+  color: #00ffcc;
+}
