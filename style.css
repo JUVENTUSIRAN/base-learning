@@ -9,3 +9,4 @@ button { background: black; color: white; }
 footer { text-align: center; }
 body { background: #000; }
 h1 { color: #00ff88; }
+button { padding: 10px; }
