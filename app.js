@@ -6,3 +6,4 @@ document.getElementById("connect").onclick = function(){
   alert("Connected");
 }
 let isConnected = false;
+isConnected = true;
