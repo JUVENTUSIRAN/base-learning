@@ -8,3 +8,4 @@ document.getElementById("connect").onclick = function(){
 let isConnected = false;
 isConnected = true;
 document.getElementById("status").innerText = "Connected";
+document.getElementById("tx-list").innerHTML = "Tx loaded";
