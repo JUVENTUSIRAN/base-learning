@@ -5,3 +5,4 @@ let balance = 2.0;
 document.getElementById("connect").onclick = function(){
   alert("Connected");
 }
+let isConnected = false;
