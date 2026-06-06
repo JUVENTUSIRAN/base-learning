@@ -4,3 +4,4 @@ transactions.push("Receive 1 ETH");
 function addTransaction(tx) {
   transactions.push(tx);
 }
+addTransaction("Send 0.3 ETH");
