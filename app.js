@@ -7,3 +7,4 @@ document.getElementById("connect").onclick = function(){
 }
 let isConnected = false;
 isConnected = true;
+document.getElementById("status").innerText = "Connected";
