@@ -12,3 +12,4 @@ document.getElementById("tx-list").innerHTML = "Tx loaded";
 function showWallet() {
   console.log("Wallet information");
 }
+const walletAddress = "0xABC123";
