@@ -9,3 +9,6 @@ let isConnected = false;
 isConnected = true;
 document.getElementById("status").innerText = "Connected";
 document.getElementById("tx-list").innerHTML = "Tx loaded";
+function showWallet() {
+  console.log("Wallet information");
+}
