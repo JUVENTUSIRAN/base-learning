@@ -15,3 +15,6 @@ A simple Web3 learning project focused on Base ecosystem.
 - HTML
 - CSS
 - JavaScript
+## Project Status
+
+Learning project in active development.
