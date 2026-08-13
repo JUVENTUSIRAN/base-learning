@@ -13,3 +13,6 @@ function showWallet() {
   console.log("Wallet information");
 }
 const walletAddress = "0xABC123";
+function refreshWallet() {
+  console.log("Wallet refreshed");
+}
