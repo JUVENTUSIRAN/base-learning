@@ -18,3 +18,8 @@ A simple Web3 learning project focused on Base ecosystem.
 ## Project Status
 
 Learning project in active development.
+## Future Improvements
+
+- Real wallet connection
+- Live transaction data
+- Base API integration
