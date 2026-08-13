@@ -10,3 +10,8 @@ A simple Web3 learning project focused on Base ecosystem.
 - Wallet dashboard
 - Transaction tracking
 - Base network information
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
