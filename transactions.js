@@ -5,3 +5,4 @@ function addTransaction(tx) {
   transactions.push(tx);
 }
 addTransaction("Send 0.3 ETH");
+const transactionCount = transactions.length;
